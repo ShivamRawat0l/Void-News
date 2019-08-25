@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/media/cheatcode/0E2286E45B543E69/Projects/Apps/voidnewz/build/fluttertoast/intermediates/res/merged/release/drawable-hdpi-v4/notification_bg_normal.9.png",
+        "source": "/home/cheatcode/.gradle/caches/transforms-1/files-1.1/core-1.0.2.aar/9584e0c67040c3e1868d31e6efd0dcca/res/drawable-hdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/media/cheatcode/0E2286E45B543E69/Projects/Apps/voidnewz/build/fluttertoast/intermediates/res/merged/release/drawable-hdpi-v4/notify_panel_notification_icon_bg.png",
+        "source": "/home/cheatcode/.gradle/caches/transforms-1/files-1.1/core-1.0.2.aar/9584e0c67040c3e1868d31e6efd0dcca/res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/media/cheatcode/0E2286E45B543E69/Projects/Apps/voidnewz/build/fluttertoast/intermediates/res/merged/release/drawable-hdpi-v4/notification_bg_low_normal.9.png",
+        "source": "/home/cheatcode/.gradle/caches/transforms-1/files-1.1/core-1.0.2.aar/9584e0c67040c3e1868d31e6efd0dcca/res/drawable-hdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/media/cheatcode/0E2286E45B543E69/Projects/Apps/voidnewz/build/fluttertoast/intermediates/res/merged/release/drawable-hdpi-v4/notification_bg_normal_pressed.9.png",
+        "source": "/home/cheatcode/.gradle/caches/transforms-1/files-1.1/core-1.0.2.aar/9584e0c67040c3e1868d31e6efd0dcca/res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/media/cheatcode/0E2286E45B543E69/Projects/Apps/voidnewz/build/fluttertoast/intermediates/res/merged/release/drawable-hdpi-v4/notification_bg_low_pressed.9.png",
+        "source": "/home/cheatcode/.gradle/caches/transforms-1/files-1.1/core-1.0.2.aar/9584e0c67040c3e1868d31e6efd0dcca/res/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
+    }
+]

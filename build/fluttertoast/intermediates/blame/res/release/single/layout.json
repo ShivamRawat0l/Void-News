@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/media/cheatcode/0E2286E45B543E69/Projects/Apps/voidnewz/build/fluttertoast/intermediates/res/merged/release/layout/toast_custom.xml",
+        "source": "/media/cheatcode/0E2286E45B543E69/Softwares/flutter/.pub-cache/hosted/pub.dartlang.org/fluttertoast-3.1.0/android/src/main/res/layout/toast_custom.xml"
+    },
+    {
+        "merged": "/media/cheatcode/0E2286E45B543E69/Projects/Apps/voidnewz/build/fluttertoast/intermediates/res/merged/release/layout/notification_template_icon_group.xml",
+        "source": "/home/cheatcode/.gradle/caches/transforms-1/files-1.1/core-1.0.2.aar/9584e0c67040c3e1868d31e6efd0dcca/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/media/cheatcode/0E2286E45B543E69/Projects/Apps/voidnewz/build/fluttertoast/intermediates/res/merged/release/layout/notification_template_part_time.xml",
+        "source": "/home/cheatcode/.gradle/caches/transforms-1/files-1.1/core-1.0.2.aar/9584e0c67040c3e1868d31e6efd0dcca/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/media/cheatcode/0E2286E45B543E69/Projects/Apps/voidnewz/build/fluttertoast/intermediates/res/merged/release/layout/notification_template_part_chronometer.xml",
+        "source": "/home/cheatcode/.gradle/caches/transforms-1/files-1.1/core-1.0.2.aar/9584e0c67040c3e1868d31e6efd0dcca/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/media/cheatcode/0E2286E45B543E69/Projects/Apps/voidnewz/build/fluttertoast/intermediates/res/merged/release/layout/notification_action.xml",
+        "source": "/home/cheatcode/.gradle/caches/transforms-1/files-1.1/core-1.0.2.aar/9584e0c67040c3e1868d31e6efd0dcca/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/media/cheatcode/0E2286E45B543E69/Projects/Apps/voidnewz/build/fluttertoast/intermediates/res/merged/release/layout/notification_action_tombstone.xml",
+        "source": "/home/cheatcode/.gradle/caches/transforms-1/files-1.1/core-1.0.2.aar/9584e0c67040c3e1868d31e6efd0dcca/res/layout/notification_action_tombstone.xml"
+    }
+]

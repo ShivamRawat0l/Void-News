@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/media/cheatcode/0E2286E45B543E69/Projects/Apps/voidnewz/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "/home/cheatcode/.gradle/caches/transforms-1/files-1.1/appcompat-1.0.0.aar/37a553ca942a21b45ffb325e74be05a3/res/values-port/values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}

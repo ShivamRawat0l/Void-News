@@ -1,0 +1,29 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /media/cheatcode/0E2286E45B543E69/Softwares/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher-4.2.0+3/android/src/main/AndroidManifest.xml:1:1-8:12
+INJECTED from /media/cheatcode/0E2286E45B543E69/Softwares/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher-4.2.0+3/android/src/main/AndroidManifest.xml:1:1-8:12
+INJECTED from /media/cheatcode/0E2286E45B543E69/Softwares/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher-4.2.0+3/android/src/main/AndroidManifest.xml:1:1-8:12
+	package
+		ADDED from /media/cheatcode/0E2286E45B543E69/Softwares/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher-4.2.0+3/android/src/main/AndroidManifest.xml:2:3-43
+		INJECTED from /media/cheatcode/0E2286E45B543E69/Softwares/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher-4.2.0+3/android/src/main/AndroidManifest.xml
+		INJECTED from /media/cheatcode/0E2286E45B543E69/Softwares/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher-4.2.0+3/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /media/cheatcode/0E2286E45B543E69/Softwares/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher-4.2.0+3/android/src/main/AndroidManifest.xml:1:11-69
+application
+ADDED from /media/cheatcode/0E2286E45B543E69/Softwares/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher-4.2.0+3/android/src/main/AndroidManifest.xml:3:3-7:17
+activity#io.flutter.plugins.urllauncher.UrlLauncherPlugin$WebViewActivity
+ADDED from /media/cheatcode/0E2286E45B543E69/Softwares/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher-4.2.0+3/android/src/main/AndroidManifest.xml:4:5-6:33
+	android:exported
+		ADDED from /media/cheatcode/0E2286E45B543E69/Softwares/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher-4.2.0+3/android/src/main/AndroidManifest.xml:6:7-31
+	android:theme
+		ADDED from /media/cheatcode/0E2286E45B543E69/Softwares/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher-4.2.0+3/android/src/main/AndroidManifest.xml:5:7-65
+	android:name
+		ADDED from /media/cheatcode/0E2286E45B543E69/Softwares/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher-4.2.0+3/android/src/main/AndroidManifest.xml:4:15-64
+uses-sdk
+INJECTED from /media/cheatcode/0E2286E45B543E69/Softwares/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher-4.2.0+3/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /media/cheatcode/0E2286E45B543E69/Softwares/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher-4.2.0+3/android/src/main/AndroidManifest.xml
+INJECTED from /media/cheatcode/0E2286E45B543E69/Softwares/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher-4.2.0+3/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /media/cheatcode/0E2286E45B543E69/Softwares/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher-4.2.0+3/android/src/main/AndroidManifest.xml
+		ADDED from /media/cheatcode/0E2286E45B543E69/Softwares/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher-4.2.0+3/android/src/main/AndroidManifest.xml
+		INJECTED from /media/cheatcode/0E2286E45B543E69/Softwares/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher-4.2.0+3/android/src/main/AndroidManifest.xml

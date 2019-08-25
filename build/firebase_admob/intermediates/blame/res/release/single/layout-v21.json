@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/media/cheatcode/0E2286E45B543E69/Projects/Apps/voidnewz/build/firebase_admob/intermediates/res/merged/release/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/cheatcode/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/abede0dd7776e40b33066875cccad92c/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/media/cheatcode/0E2286E45B543E69/Projects/Apps/voidnewz/build/firebase_admob/intermediates/res/merged/release/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/cheatcode/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/abede0dd7776e40b33066875cccad92c/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/media/cheatcode/0E2286E45B543E69/Projects/Apps/voidnewz/build/firebase_admob/intermediates/res/merged/release/layout-v21/notification_action.xml",
+        "source": "/home/cheatcode/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/abede0dd7776e40b33066875cccad92c/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/media/cheatcode/0E2286E45B543E69/Projects/Apps/voidnewz/build/firebase_admob/intermediates/res/merged/release/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/cheatcode/.gradle/caches/transforms-1/files-1.1/core-1.0.0.aar/abede0dd7776e40b33066875cccad92c/res/layout-v21/notification_template_custom_big.xml"
+    }
+]

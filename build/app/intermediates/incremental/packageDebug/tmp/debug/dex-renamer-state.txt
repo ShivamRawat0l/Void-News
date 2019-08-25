@@ -1,0 +1,7 @@
+#Sun Aug 25 15:32:05 IST 2019
+base.0=/media/cheatcode/0E2286E45B543E69/Projects/Apps/voidnewz/build/app/intermediates/transforms/dexMerger/debug/0
+path.1=classes2.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/media/cheatcode/0E2286E45B543E69/Projects/Apps/voidnewz/build/app/intermediates/transforms/dexMerger/debug/0

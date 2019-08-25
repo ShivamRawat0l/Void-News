@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/media/cheatcode/0E2286E45B543E69/Projects/Apps/voidnewz/build/firebase_admob/intermediates/res/merged/release/color/common_google_signin_btn_tint.xml",
+        "source": "/home/cheatcode/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/6021ea9c6116f8606e55aa8501e83722/res/color/common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "/media/cheatcode/0E2286E45B543E69/Projects/Apps/voidnewz/build/firebase_admob/intermediates/res/merged/release/color/common_google_signin_btn_text_dark.xml",
+        "source": "/home/cheatcode/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/6021ea9c6116f8606e55aa8501e83722/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/media/cheatcode/0E2286E45B543E69/Projects/Apps/voidnewz/build/firebase_admob/intermediates/res/merged/release/color/common_google_signin_btn_text_light.xml",
+        "source": "/home/cheatcode/.gradle/caches/transforms-1/files-1.1/jetified-play-services-base-16.0.1.aar/6021ea9c6116f8606e55aa8501e83722/res/color/common_google_signin_btn_text_light.xml"
+    }
+]

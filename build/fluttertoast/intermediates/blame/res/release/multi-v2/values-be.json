@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "/media/cheatcode/0E2286E45B543E69/Projects/Apps/voidnewz/build/fluttertoast/intermediates/res/merged/release/values-be/values-be.xml",
+            "map": [
+                {
+                    "source": "/home/cheatcode/.gradle/caches/transforms-1/files-1.1/core-1.0.2.aar/9584e0c67040c3e1868d31e6efd0dcca/res/values-be/values-be.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/media/cheatcode/0E2286E45B543E69/Projects/Apps/voidnewz/build/fluttertoast/intermediates/incremental/mergeReleaseResources/merged.dir/values-be/values-be.xml",
+            "map": [
+                {
+                    "source": "/home/cheatcode/.gradle/caches/transforms-1/files-1.1/core-1.0.2.aar/9584e0c67040c3e1868d31e6efd0dcca/res/values-be/values-be.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

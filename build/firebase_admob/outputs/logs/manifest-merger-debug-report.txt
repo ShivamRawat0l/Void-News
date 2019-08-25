@@ -1,0 +1,29 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /media/cheatcode/0E2286E45B543E69/Softwares/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_admob-0.9.0+3/android/src/main/AndroidManifest.xml:1:1-9:12
+INJECTED from /media/cheatcode/0E2286E45B543E69/Softwares/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_admob-0.9.0+3/android/src/main/AndroidManifest.xml:1:1-9:12
+INJECTED from /media/cheatcode/0E2286E45B543E69/Softwares/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_admob-0.9.0+3/android/src/main/AndroidManifest.xml:1:1-9:12
+	package
+		ADDED from /media/cheatcode/0E2286E45B543E69/Softwares/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_admob-0.9.0+3/android/src/main/AndroidManifest.xml:2:3-45
+		INJECTED from /media/cheatcode/0E2286E45B543E69/Softwares/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_admob-0.9.0+3/android/src/main/AndroidManifest.xml
+		INJECTED from /media/cheatcode/0E2286E45B543E69/Softwares/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_admob-0.9.0+3/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /media/cheatcode/0E2286E45B543E69/Softwares/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_admob-0.9.0+3/android/src/main/AndroidManifest.xml:1:11-69
+meta-data#com.google.android.gms.ads.APPLICATION_ID
+ADDED from /media/cheatcode/0E2286E45B543E69/Softwares/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_admob-0.9.0+3/android/src/main/AndroidManifest.xml:5:3-7:39
+	android:value
+		ADDED from /media/cheatcode/0E2286E45B543E69/Softwares/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_admob-0.9.0+3/android/src/main/AndroidManifest.xml:7:7-37
+	android:name
+		ADDED from /media/cheatcode/0E2286E45B543E69/Softwares/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_admob-0.9.0+3/android/src/main/AndroidManifest.xml:6:7-63
+uses-permission#android.permission.INTERNET
+ADDED from /media/cheatcode/0E2286E45B543E69/Softwares/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_admob-0.9.0+3/android/src/main/AndroidManifest.xml:8:3-65
+	android:name
+		ADDED from /media/cheatcode/0E2286E45B543E69/Softwares/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_admob-0.9.0+3/android/src/main/AndroidManifest.xml:8:20-62
+uses-sdk
+INJECTED from /media/cheatcode/0E2286E45B543E69/Softwares/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_admob-0.9.0+3/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /media/cheatcode/0E2286E45B543E69/Softwares/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_admob-0.9.0+3/android/src/main/AndroidManifest.xml
+INJECTED from /media/cheatcode/0E2286E45B543E69/Softwares/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_admob-0.9.0+3/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /media/cheatcode/0E2286E45B543E69/Softwares/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_admob-0.9.0+3/android/src/main/AndroidManifest.xml
+		ADDED from /media/cheatcode/0E2286E45B543E69/Softwares/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_admob-0.9.0+3/android/src/main/AndroidManifest.xml
+		INJECTED from /media/cheatcode/0E2286E45B543E69/Softwares/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_admob-0.9.0+3/android/src/main/AndroidManifest.xml
